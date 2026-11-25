@@ -1,0 +1,11 @@
+model,window,half_life,mean_gaussian_loss,selected_for_test
+sample,63,,-6.14581770973663,False
+sample,126,,-6.781565667507894,False
+sample,252,,-6.901459436157886,True
+ledoit_wolf,63,,-6.908820621103742,False
+ledoit_wolf,126,,-6.926432711318944,False
+ledoit_wolf,252,,-6.93754417454477,True
+ewma,252,10.0,-4.9861068761971055,False
+ewma,252,21.0,-6.577380123462886,False
+ewma,252,42.0,-6.865957656579259,False
+ewma,252,63.0,-6.909835241042186,True
